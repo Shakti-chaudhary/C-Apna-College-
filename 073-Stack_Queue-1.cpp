@@ -1,4 +1,4 @@
-// ========= Stack using two Queue =================
+// ========= Stack using two Queue ( Push method costly ) =================
 
 #include <iostream>
 #include <queue>
